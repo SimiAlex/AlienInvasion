@@ -1,7 +1,5 @@
-About the game\n
 Popular arcade game . I created this game by following the "Python Crash Course" book.
 
-How to play\n
 In Alien Invasion, the player controls a ship that appears at the bottom center of the screen.
 The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar.
 When the game begins, a fleet of aliens fills the sky and moves across and down the screen.
